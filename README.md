@@ -4,6 +4,16 @@ Extend Github milestone.
 
 An issue with a milestone will alert you if the due date for that milestone has expired.
 
+## Usage
+
+```bash
+pnpm build
+```
+
+Add the extension folder to your own Chrome extensions.
+
+Remember to turn on developer mode beforehand!
+
 ## Contributing
 
 Contributions are welcome.
